@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Source of the facts: http://www.telegraph.co.uk/films/2016/04/19/the-20-best-chuck-norris-facts/
+
 facts=( "Chuck Norris was bitten by a cobra and after five days of excruciating pain... the cobra died."
         "He who laughs last, laughs best. He who laughs at Chuck Norris, it's definitely his last laugh."
         "The easiest way to determine Chuck Norris's age is to cut him in half and count the rings."
