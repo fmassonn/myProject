@@ -1,5 +1,14 @@
 #!/bin/bash
 
-facts=( "Chuck Norris was bitten by a cobra and after five days of excruciating pain... the cobra died.", \
-          "He who laughs last, laughs best. He who laughs at Chuck Norris, it's definitely his last laugh", \
-      )
+facts=( "Chuck Norris was bitten by a cobra and after five days of excruciating pain... the cobra died."
+        "He who laughs last, laughs best. He who laughs at Chuck Norris, it's definitely his last laugh."
+        "The easiest way to determine Chuck Norris's age is to cut him in half and count the rings."
+        "Chuck Norris is currently suing NBC, claiming Law and Order are trademarked names for his left and right legs."
+        "Chuck Norris doesn't dial the wrong number. You answered the wrong phone."
+        "Chuck Norris knows Victoria's secret."
+        "If Chuck Norris was a Spartan in the movie 300, the movie would be called 1."
+        "When Chuck Norris turned 18, his parents moved out."
+        "When Chuck Norris swims in the ocean, the sharks are in a steel cage."
+        "Chuck Norris will never have a heart attack. His heart isn't nearly foolish enough to attack him."
+        "Chuck Norris once kicked a horse in the chin. Its descendants today are known as giraffes."
+        "Chuck Norris doesn't breathe air. He holds air hostage."    )
