@@ -2,5 +2,7 @@
 
 source text_to_display.txt
 
-echo "Hello world!"
+n_items=${#facts[@]} # Number of items in the data base
+number=$((  RANDOM % $n_items ))
+echo ${facts[$number]}
 
