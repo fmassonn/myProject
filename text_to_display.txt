@@ -1,5 +1,5 @@
 #!/bin/bash
 
-facts = ( "Chuck Norris was bitten by a cobra and after five days of excruciating pain... the cobra died.", \
+facts=( "Chuck Norris was bitten by a cobra and after five days of excruciating pain... the cobra died.", \
           "He who laughs last, laughs best. He who laughs at Chuck Norris, it's definitely his last laugh", \
-        )
+      )
