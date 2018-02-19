@@ -4,5 +4,6 @@ source text_to_display.txt
 
 n_items=${#facts[@]} # Number of items in the data base
 number=$((  RANDOM % $n_items ))
-echo ${facts[$number]}
-
+echo ""
+echo ">>>>>>>   ${facts[$number]}  <<<<<<<<"
+echo ""
